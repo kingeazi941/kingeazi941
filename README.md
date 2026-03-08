@@ -26,9 +26,9 @@
 
   <!-- GitHub Stats -->
   <h3>📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=kingeazi941&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="Stats card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingeazi941&layout=compact&theme=dracula&hide_border=true" width="40%" alt="Top languages" />
-  <br><br>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=kingeazi941&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="Stats card" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kingeazi941&layout=compact&theme=dracula&hide_border=true" width="40%" alt="Top languages" />
+<br><br>
   <!-- Optional: Add streak card for contribution motivation -->
   <img src="https://streak-stats.demolab.com?user=kingeazi941&theme=dracula&hide_border=true" width="48%" alt="GitHub Streak" />
 
